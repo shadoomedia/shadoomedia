@@ -1,9 +1,14 @@
 
 # 💫 About Me:
 Hello world!👋
-<br><br>I'm Jorge and I'm currently a Junior FullStack Software Developer entering this fun and challenging world that is programming.<br><be>
+<br>
+<br>I'm Jorge, a Junior Software Developer.
+<br>
 
-<br><br>Currently working @ Code for All_ as a Padawan Master Coder (AKA trainer).<br><br>
+<br>back-end: ✅ 
+<br>front-end: ✅ 
+
+<br><br>Currently working @ Code for All_ as a Master Coder (AKA teacher).<br><br>
 
 
 
